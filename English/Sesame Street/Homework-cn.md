@@ -1,0 +1,40 @@
+# 【Homework】
+## Main class teaching content for Week
+### Week 1
+> Dear all. Main class teaching content for Week 1 
+#### Words:
+    Elmo
+    Big Bird
+    Cookie Monster
+    Bert
+    Ernie
+    Mr. Noodle
+    Dorothy
+    Zoe
+    Abby
+    Murray
+#### Sentences:
+    Elmo is my friend.
+    Big Bird is my friend.
+    Cookie Monster is my friend.
+    Bert is my friend.
+    Ernie is my friend.
+ Homework: 白皮中教作业K2-1A，K2-1B
+### Week 1
+> Dear all. Main class teaching content for Week 2
+#### Words:
+    friends
+    play
+    Shake hands
+    Play together
+    hug
+    Play baseball
+    read books
+#### Sentences:
+    We are good friends.
+    Friends shake hands.
+    Friends play together.
+    Friends hug.
+    Friends read books.
+    Friends play baseball.
+Homework: 白皮中教作业K2-2A，K2-2B
