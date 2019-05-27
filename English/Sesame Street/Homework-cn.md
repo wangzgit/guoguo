@@ -20,7 +20,7 @@
     Bert is my friend.
     Ernie is my friend.
  Homework: 白皮中教作业K2-1A，K2-1B
-### Week 1
+### Week 2
 > Dear all. Main class teaching content for Week 2
 #### Words:
     friends
@@ -38,3 +38,20 @@
     Friends read books.
     Friends play baseball.
 Homework: 白皮中教作业K2-2A，K2-2B
+### Week 3
+> Dear all. Main class teaching content for Week 3
+#### Words:
+    Letter M/m
+    Uppercase M
+    Lowercase m
+    Letter M/m makes the sound /m/
+    milk
+    moon
+    monster
+    monkey
+#### Sentences:
+    I drink milk.
+    Monkeys jump.
+    Monkeys swing.
+    Monkeys eat bananas.
+Homework: 白皮中教作业K2-3A，K2-3B
