@@ -55,3 +55,21 @@ Homework: 白皮中教作业K2-2A，K2-2B
     Monkeys swing.
     Monkeys eat bananas.
 Homework: 白皮中教作业K2-3A，K2-3B
+### Week 3
+> Dear all. Main class teaching content for Week 4
+#### Words:
+    Letter A/a
+    Uppercase A
+    Lowercase a
+    Letter A/a makes the sound /a/
+    apple
+    arrow
+    ant
+    animals
+#### Sentences:
+    Apples are red.
+    Apples are round.
+    Apples are yummy.
+    Arrow to the right.
+    Arrow to the left.
+Homework: 白皮中教作业K2-4A，K2-4B
